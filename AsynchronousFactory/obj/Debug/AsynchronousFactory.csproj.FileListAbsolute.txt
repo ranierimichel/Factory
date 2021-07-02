@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\AsynchronousFactory\bin\Debug\AsynchronousFactory.exe.config
+C:\Users\Ranieri\Desktop\AsynchronousFactory\bin\Debug\AsynchronousFactory.exe
+C:\Users\Ranieri\Desktop\AsynchronousFactory\bin\Debug\AsynchronousFactory.pdb
+C:\Users\Ranieri\Desktop\AsynchronousFactory\obj\Debug\AsynchronousFactory.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AsynchronousFactory\obj\Debug\AsynchronousFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AsynchronousFactory\obj\Debug\AsynchronousFactory.exe
+C:\Users\Ranieri\Desktop\AsynchronousFactory\obj\Debug\AsynchronousFactory.pdb

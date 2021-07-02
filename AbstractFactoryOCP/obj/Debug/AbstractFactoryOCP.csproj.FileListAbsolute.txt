@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\bin\Debug\AbstractFactoryOCP.exe.config
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\bin\Debug\AbstractFactoryOCP.exe
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\bin\Debug\AbstractFactoryOCP.pdb
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\obj\Debug\AbstractFactoryOCP.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\obj\Debug\AbstractFactoryOCP.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\obj\Debug\AbstractFactoryOCP.exe
+C:\Users\Ranieri\Desktop\AbstractFactoryOCP\obj\Debug\AbstractFactoryOCP.pdb

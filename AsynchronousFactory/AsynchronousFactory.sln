@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousFactory", "AsynchronousFactory.csproj", "{63FD5D67-8924-49F9-ADC3-B2C7A2B22FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63FD5D67-8924-49F9-ADC3-B2C7A2B22FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FD5D67-8924-49F9-ADC3-B2C7A2B22FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FD5D67-8924-49F9-ADC3-B2C7A2B22FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FD5D67-8924-49F9-ADC3-B2C7A2B22FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B25697-0EAD-4CF0-BD11-C582C8D0787A}
+	EndGlobalSection
+EndGlobal

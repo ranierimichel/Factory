@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\InnerFactory\bin\Debug\InnerFactory.exe.config
+C:\Users\Ranieri\Desktop\InnerFactory\bin\Debug\InnerFactory.exe
+C:\Users\Ranieri\Desktop\InnerFactory\bin\Debug\InnerFactory.pdb
+C:\Users\Ranieri\Desktop\InnerFactory\obj\Debug\InnerFactory.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\InnerFactory\obj\Debug\InnerFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\InnerFactory\obj\Debug\InnerFactory.exe
+C:\Users\Ranieri\Desktop\InnerFactory\obj\Debug\InnerFactory.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\bin\Debug\FactorySeparetedClass.exe.config
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\bin\Debug\FactorySeparetedClass.exe
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\bin\Debug\FactorySeparetedClass.pdb
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\obj\Debug\FactorySeparetedClass.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\obj\Debug\FactorySeparetedClass.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\obj\Debug\FactorySeparetedClass.exe
+C:\Users\Ranieri\Desktop\FactorySeparetedClass\obj\Debug\FactorySeparetedClass.pdb
